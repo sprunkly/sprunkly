@@ -8,6 +8,8 @@ Welcome to **Incredibox Sprunkly**, a vibrant fan-made mod that reimagines the e
 
 **Incredibox Sprunkly** enhances the rhythmic gameplay of the original Sprunki, offering an immersive journey where you can craft unique musical compositions. With delightful visuals and engaging mechanics, this mod encourages exploration and experimentation, allowing you to blend various sound elements and create tracks that reflect your personal style.
 
+![Incredibox Sprunkly](https://game.sprunkly.org/202501091056162.png)
+
 ## Key Features of Incredibox Sprunkly
 
 ### Unique Character Designs
