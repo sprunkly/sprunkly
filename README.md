@@ -9,6 +9,11 @@ Welcome to **Incredibox Sprunkly**, a vibrant fan-made mod that reimagines the e
 
 [Scrunkly](https://scrunkly.cc/)
 
+[Sprunki Retake Final Update](https://scrunkly.cc/game/sprunki-retake-new-update)
+
+[Sprunki Pyramixed](https://scrunkly.cc/game/sprunki-pyramixed)
+
+[Sprunki Pyramixed New Update](https://sprunkly.org/game/sprunki-pyramixed-new-update)
 
 ## What Is Incredibox Sprunkly?
 
