@@ -4,6 +4,12 @@ Welcome to **Incredibox Sprunkly**, a vibrant fan-made mod that reimagines the e
 
 [Play Now](https://sprunkly.org/)
 
+## Other Sprunki Games
+[Sprunki Pyraminx](https://sprunkipyraminx.org/)
+
+[Scrunkly](https://scrunkly.cc/)
+
+
 ## What Is Incredibox Sprunkly?
 
 **Incredibox Sprunkly** enhances the rhythmic gameplay of the original Sprunki, offering an immersive journey where you can craft unique musical compositions. With delightful visuals and engaging mechanics, this mod encourages exploration and experimentation, allowing you to blend various sound elements and create tracks that reflect your personal style.
